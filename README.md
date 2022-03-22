@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/77412917/159584599-88333855-a72c-4a81-a65a-f5cb961eaed9.png)
+![image](https://user-images.githubusercontent.com/77412917/159584599-88333855-a72c-4a81-a65a-f5cb961eaed9.png)![image](https://user-images.githubusercontent.com/77412917/159584654-7fb558dc-4a2d-4a86-b36c-77ef688e515c.png)![image](https://user-images.githubusercontent.com/77412917/159584669-141ce248-63f1-4e1e-8f50-552d563ce4ca.png)
+
+
 
 
 TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA
