@@ -1,4 +1,4 @@
-# Title: intro3					Filename: holamundo.s
+# Title: intro3					Filename: intro3
 # Author:Sebastian Gonzalez Elogio				Date: 08/04/2022
 .text 
 .global main 
