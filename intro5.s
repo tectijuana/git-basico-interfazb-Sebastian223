@@ -1,4 +1,4 @@
-# Title: intr55					Filename: holamundo.s
+# Title: intro5					Filename: intro5
 # Author:Sebastian Gonzalez Elogio				Date: 08/04/2022
 .data
 var1 : .word 0x12345678
