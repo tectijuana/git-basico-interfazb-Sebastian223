@@ -1,4 +1,4 @@
-# Title: intro2					Filename: holamundo.s
+# Title: intro2					Filename: intro2
 # Author:Sebastian Gonzalez Elogio				Date: 08/04/2022
 .data
 var1 : .byte 0b00110010
